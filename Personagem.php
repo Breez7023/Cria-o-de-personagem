@@ -1,3 +1,4 @@
+//Criação de personagem de RPG simples utilizando PHP e HTML
 <?php
 class Raca {
     public $nome;
